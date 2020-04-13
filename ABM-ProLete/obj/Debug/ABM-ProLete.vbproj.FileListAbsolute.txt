@@ -1,0 +1,19 @@
+C:\Users\Alec\AppData\Local\Temporary Projects\ABM-ProLete\bin\Debug\ABM-ProLete.exe.config
+c:\users\alec\documents\visual studio 2015\Projects\ABM-ProLete\ABM-ProLete\bin\Debug\ABM-ProLete.exe.config
+D:\ABM-ProLete\ABM-ProLete\bin\Debug\ABM-ProLete.exe.config
+D:\ABM-ProLete\ABM-ProLete\bin\Debug\ABM-ProLete.exe
+D:\ABM-ProLete\ABM-ProLete\bin\Debug\ABM-ProLete.pdb
+D:\ABM-ProLete\ABM-ProLete\bin\Debug\ABM-ProLete.xml
+D:\ABM-ProLete\ABM-ProLete\obj\Debug\ABM-ProLete.vbprojResolveAssemblyReference.cache
+D:\ABM-ProLete\ABM-ProLete\obj\Debug\ABM_ProLete.Form1.resources
+D:\ABM-ProLete\ABM-ProLete\obj\Debug\ABM_ProLete.2-Register.resources
+D:\ABM-ProLete\ABM-ProLete\obj\Debug\ABM_ProLete._3_Menu.resources
+D:\ABM-ProLete\ABM-ProLete\obj\Debug\ABM_ProLete._4_CalorieCounter.resources
+D:\ABM-ProLete\ABM-ProLete\obj\Debug\ABM_ProLete._5_BMICalculator.resources
+D:\ABM-ProLete\ABM-ProLete\obj\Debug\ABM_ProLete._6_Diary.resources
+D:\ABM-ProLete\ABM-ProLete\obj\Debug\ABM_ProLete._7_Report.resources
+D:\ABM-ProLete\ABM-ProLete\obj\Debug\ABM_ProLete.Resources.resources
+D:\ABM-ProLete\ABM-ProLete\obj\Debug\ABM-ProLete.vbproj.GenerateResource.Cache
+D:\ABM-ProLete\ABM-ProLete\obj\Debug\ABM-ProLete.exe
+D:\ABM-ProLete\ABM-ProLete\obj\Debug\ABM-ProLete.xml
+D:\ABM-ProLete\ABM-ProLete\obj\Debug\ABM-ProLete.pdb
